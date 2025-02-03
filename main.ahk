@@ -3,8 +3,6 @@
 
 #SingleInstance Force
 
-SendMode("Play")
-
 global title := "Prevenir Ausente Teams"
 global tray_timer := 3000
 global toggle_afk := false
